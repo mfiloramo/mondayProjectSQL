@@ -2,7 +2,7 @@
    <img src="assets/monday-sql-banner.png" width="100%" alt="sql-server-banner">
 </p>
 
-This repository contains T-SQL scripts for managing fragrances and orders within a SQL Server database. These scripts are designed for an application integrated with the Monday.com platform, providing the necessary database schema and stored procedures for CRUD operations.
+This repository contains T-SQL scripts for managing fragrances and orders within a SQL Server database. These scripts are designed for an application integrated with the Monday.com platform, providing the necessary database schema and stored procedures for CRUD operations. This repo is one of three for this application; the Client Application can be found <a href="https://github.com/mfiloramo/mondayProject">here</a>, and the API can be found <a href="https://github.com/mfiloramo/mondayProjectAPI">here</a>.
 
 <hr>
 
